@@ -23,7 +23,8 @@ The following Workbench tasks are based on the Workbench user having **system ad
 
 **Import the Demo XML into the Workbench in a new environment**
 
-1. Using your preferred file transfer method, download *your-hlq*.GVBDEMO.WB.XML to a folder on your PC.
+1. Download the Workbench XML [DemoOpen.xml](https://github.com/genevaers/Demo/blob/main/XML/DemoOpen.xml) from the Demo repository, to a folder on your PC.  
+(Alternatively, using your preferred file transfer method, download the data set created during the Demo installation, *your-hlq*.GVBDEMO.WB.XML, to a folder on your PC.)
 2. Start up the Workbench.
 3. Select **Administration** > **New** > **Environment**
 4. In the **Name** field type **DemoEnv**
